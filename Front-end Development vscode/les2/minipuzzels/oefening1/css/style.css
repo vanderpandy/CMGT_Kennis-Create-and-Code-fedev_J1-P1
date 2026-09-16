@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: 33vw;
+    border: 4px solid #FF5252;
+}
+
+.line {
+    background-color: #457B9D;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    color: #FFFFFF;
+    font-size: 2.5rem;
+    margin: 30px 0;
+}
+
+.line.fifty-percent {
+
+    /* Voer jouw code hieronder in */
+    width: 50%;
+}
+
+.line.fifty-vw {
+
+    /* Voer jouw code hieronder in */
+    width: 50vw;
+}

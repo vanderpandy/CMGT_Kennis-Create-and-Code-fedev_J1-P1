@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.background-color {
+    background-color: #FFFFFF;
+}
+
+body {
+    margin: 0px;
+}
+
+nav {
+    font-size: 10rem;
+    text-align: right;
+    background-color: #717D96;
+}
+
+header {
+    background-color: #A0ABC0;
+    padding: 10px;
+    margin: 10px;
+}
+
+.first {
+    background-color: #FFFFFF;
+    padding: 10px;
+}
+
+.second {
+    background-color: #E2E7F0;
+    padding: 10px;
+}
+
+.third {
+    background-attachment: #FFFFFF;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #4A5468;
+}

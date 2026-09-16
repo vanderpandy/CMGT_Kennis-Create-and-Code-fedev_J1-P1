@@ -1,0 +1,15 @@
+section {
+    width: 560px;
+    border: 2px solid #4A5468;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+/* Voer jouw code hieronder in */
+.first {
+    padding-top: 0px;
+}
+.second {
+    padding-bottom: 0px;
+}
